@@ -1,5 +1,5 @@
 # BS-model
-Research on the Pricing of Convertible Bonds in China Using BS Model & Monte Carlo Simulation
+#### Research on the Pricing of Convertible Bonds in China Using BS Model & Monte Carlo Simulation
 
 There are downward revision clauses to all convertible bonds in China in order to avoid the bondholders' executing Selling-back rights. This will encourage the issuers and the substantial shareholders to make the downward adjustment. As a result, it may make the convertible bond-pricing model not applicable to China. Based on the assumptions that the convertible rights are European options and the new issues would not affect the stock price and volatilities, and considering all factors that may influence convertible bonds pricing, I price the convertible bonds by using Monte Carlo simulation. The empirical study indicates that the convertible bonds have been underpriced significantly when considering the amending expectation and overpriced slightly without considering the amending expectatio.
 
